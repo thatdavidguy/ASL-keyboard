@@ -5,7 +5,7 @@ This is an attempt to form a "keyboard" with just ASL input
 We just use PIL and tkinter
 
 # How it works (code)
-We use two .txt files to store the configurations of the hand.
+We used two .txt files to store the configurations of the hand.
 Tkinter takes care of all the UI (pain).
 PIL is used to process images.
 
