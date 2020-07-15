@@ -1,5 +1,5 @@
 # ASL keyboard
-This is a attempt to form a "keyboard" with just ASL input
+This is an attempt to form a "keyboard" with just ASL input
 
 # Dependencies
 We just use PIL and tkinter
